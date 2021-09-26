@@ -1,0 +1,3 @@
+---
+kibana_stack_version: "7.15.0"
+elk_stack_version: "7.14.0"
